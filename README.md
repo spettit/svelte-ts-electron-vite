@@ -1,4 +1,6 @@
-# Svelte + TS + Vite
+# Electron + Svelte + TS + Vite
+
+# This is a fork from Front End Template World
 
 This template should help get you started developing with Svelte and TypeScript in Vite.
 
